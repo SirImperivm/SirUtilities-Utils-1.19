@@ -1,0 +1,5 @@
+name: SirUtilities-Utils-1.19
+version: '1.0'
+main: me.sirimperivm.spigot.Main
+api-version: 1.19
+load: STARTUP
